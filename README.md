@@ -17,3 +17,7 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 ## Phylogenetic Analysis with MEGA
 
 ![MEGAWorkflow](figures/workflowMEGA.PNG)
+
+## Phylogenetic Analysis with GALAXY
+
+![GALAXYWorkflow](figures/galaxyWORKFLOW.PNG)
