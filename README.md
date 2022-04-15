@@ -2,4 +2,4 @@
 ## **Workflow**
 
 
-![Workflow](figures/workflowMEGA.PNG)
+![Workflow](figures/WORKFLOW.PNG)
