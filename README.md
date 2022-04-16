@@ -27,6 +27,7 @@ MEGA11 is available for Microsoft Windows, Linux, and macOS in natively develope
 At https://usegalaxy.org, the Galaxy program can be used as a workflow manager. Galaxy is an open-source web-based platform, but if you want to install it on your own machine, you'll need a 64-bit UNIX environment with 4GB of RAM.
 
 
+
 ![GALAXYWorkflow](figures/galaxyWorkflow.PNG)
 
 #### SEAVIEW
