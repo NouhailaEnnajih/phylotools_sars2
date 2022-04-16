@@ -31,6 +31,9 @@ At https://usegalaxy.org, the Galaxy program can be used as a workflow manager. 
 
 #### SEAVIEW
 
+Seaview workflow manager can be installed on Microsoft Windows,Mac OS X,Linux and Solaris through  http://doua.prabi.fr/software/seaview.
+
+
 ![SEAVIEWWorkflow](figures/workflowSEAVIEW.PNG)
 
 #### GENEIOUS
