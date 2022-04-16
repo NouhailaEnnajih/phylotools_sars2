@@ -18,6 +18,8 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 
 #### MEGA
 
+MEGA11 is available for Microsoft Windows, Linux, and macOS in natively developed graphical user interface and command-line versions at www.megasoftware.net.  Both 32- and 64-bit versions of MEGA are available for download.
+
 ![MEGAWorkflow](figures/workflowMEGA.PNG)
 
 #### GALAXY
