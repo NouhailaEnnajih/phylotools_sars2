@@ -30,7 +30,7 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 
 #### GENEIOUS
 
-![GENEIOUSWorkflow](figures/geneiousWORKFLOW.PNG)
+![GENEIOUSWorkflow](figures/geneiousWorkflow.PNG)
 
 
 
