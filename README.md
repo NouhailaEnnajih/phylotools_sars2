@@ -27,3 +27,16 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 #### SEAVIEW
 
 ![SEAVIEWWorkflow](figures/workflowSEAVIEW.PNG)
+
+#### GENEIOUS
+
+![GENEIOUSWorkflow](figures/geneiousWORKFLOW.PNG)
+
+
+
+
+
+
+
+
+
