@@ -44,8 +44,8 @@ Seaview workflow manager can be installed on Microsoft Windows,Mac OS X,Linux an
 
 
 ## People/ Team
-*a
-*b
+*a;
+*b;
 
 
 
