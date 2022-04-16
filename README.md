@@ -23,3 +23,7 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 #### GALAXY
 
 ![GALAXYWorkflow](figures/galaxyWorkflow.PNG)
+
+#### SEAVIEW
+
+![SEAVIEWWorkflow](figures/workflowSEAVIEW.PNG)
